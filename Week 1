@@ -1,0 +1,19 @@
+Pyry Myllymäki
+
+Task 1:
+I personally use different passwords in most of the services and use couple password managers to save them. I always use two factor authentication when its possible. I have couple passwords I use for services I only need like once or twice and that
+dont really have anything personal stuff I would care about. I have not been victim of cyber crimes, atleast not that I know of. But I know there have few times someone has tried to log in to some of my accounts and my two factor authentication software has notified me of that.
+I think I could improve on by using just one password manager because rn I find myself too often not being able to login to somewhere because the manager is on another device,
+
+Task 4a:
+
+1. Did you find devices you did not know were in your network?  - No I did not find. Actually I found out that some of my devices that should be on network had actually dissappeared and it seems like they have lost the power at some point.
+2. Were there open ports which should have been closed?   - No I did not find any ports which should have been closed
+3. Did nmap find any vulnerabilities with the scripts?   - No vulnerabilities were found
+4. Screenshot of the topology of your network. You can redact device information if you want.
+
+Task 4b: 
+
+1. Has your account details leaked?   - No they have not been leaked
+2. Screenshot of haveibeenpwned search, you can redact information if you want.
+3. Did you change passwords and/or email + password combos, that were leaked, if not, do it.
