@@ -8,3 +8,19 @@ BUt usually you should be extra careful about the spelling and look for any erro
 -if I owned domain ouspg.org I would look for any domain names that could be cause of misspelling. Also ouspg.net or other tlds could be used.
 
 TASK 2.
+
+Why do modern payment cards use a chip and not a magnetic stripe? - They use chips because it is safer. The chips are used in a way that generates a one time use key for the transaction so it can not be copied. The magnetic stripe instead just holds the data and if scammer would copy the data they could use it.
+What are EMV Certificates and why are they relevant for payment protection? - They are certification that mandates the security criteria for all payment acceptance systems. EMV certification compliance is required for all payment processing systems. Becouse of the standardisation it is more safe to pay.
+What attacks exist against payment cards? - The card data can be stolen at the payment access terminal. The data can also be stolen from online stores.
+Card-not-present? - The data can also be stolen from online stores.
+Contactless payment? - you can capture the signal between the card and the contactless payment terminal 
+
+How is multi-factor authentication (MFA) used in banking? - When you try to make a purchase online you need to log in to your pank to approve it
+How does multi-factor authentication increase payment security? - You also would have to get hold of the persons phone or the password device instead of just the card details. 
+What MFA methods are you using in you daily life? - I use googles 2FA and microsoft 2FA software with everything.
+What attacks exists against different forms of 2FA?
+Time-based-one-time-password? - Scammers could try to make fake authentication software
+Text Message? - Scammers can try to ask for you to send the text message you received for your 2FA. 
+
+TASK 3.
+
